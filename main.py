@@ -1,7 +1,7 @@
 # main.py
 
 from spark_utils import create_spark_session
-from jobs.data_pipeline import run_data_pipeline
+from pipeline import pipeline
 
 def main():
     # 1. Create the Spark Session
