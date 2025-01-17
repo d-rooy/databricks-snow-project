@@ -85,6 +85,11 @@ databricks-snow-project/
 - **Global Snowfall Trends**: Visualize snowfall anomalies on a globe chart.
 - **Regional Snowfall Comparison**: Analyze year-over-year snowfall patterns.
 
+![image](https://github.com/user-attachments/assets/2d49464c-bee2-4e24-b514-2b5f8b77e6ad)
+
+![image](https://github.com/user-attachments/assets/c62cff05-228f-4915-af1c-1fc1809da265)
+
+
 ---
 
 ## **Future Enhancements**
