@@ -56,12 +56,10 @@ databricks-snow-project/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
-├── config.py
 ├── spark_utils.py
-├── transformations.py
 ├── main.py
 └── jobs/
-    ├── data_pipeline.py
+    ├── pipeline.py
     └── __init__.py
 
 ```
@@ -70,18 +68,9 @@ databricks-snow-project/
 
 ## **Usage**
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your_username/databricks-snow-project.git
-   cd databricks-snow-project
-   ```
-2. **Upload the Notebook**:
-   - Upload `NOAA_ISD_Project_Snow.ipynb` to your Databricks workspace.
-3. **Set Up Your Cluster**:
-   - Create a Databricks cluster with Spark 3.0+ and Delta Lake enabled.
-4. **Run the Notebook**:
-   - Follow the notebook's instructions to ingest, transform, and analyze NOAA ISD data.
-5. **Visualize Trends**:
-   - Use visualization-ready outputs to analyze snowfall trends.
+2. **Set up your Spark Environment**:
+3. Run the Script
+   - Execute main.py to run the pipeline
 
 ---
 
